@@ -642,7 +642,7 @@ __metadata:
     "@vitest/coverage-istanbul": "npm:^2.1.8"
     consola: "npm:^3.2.3"
     tsx: "npm:^4.19.2"
-    type-fest: "npm:^4.30.0"
+    type-fest: "npm:^4.31.0"
     typescript: "npm:^5.7.2"
     vitest: "npm:^2.1.8"
     yaml: "npm:^2.6.1"
@@ -2687,10 +2687,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"type-fest@npm:^4.30.0":
-  version: 4.30.0
-  resolution: "type-fest@npm:4.30.0"
-  checksum: 10/46c733df4feb87dfd281fba4fa3913dc38b45136be35adffbcef95e13414105a4669476c1f8686680b9c98e59ed5dc85efe42caf67adbaa04f48dfc41f8330fa
+"type-fest@npm:^4.31.0":
+  version: 4.31.0
+  resolution: "type-fest@npm:4.31.0"
+  checksum: 10/e7e849845bf33e1237c3ff0d5ed00a251a807e3321ffe75278dd56a7d3c385badfe09180057c2d0b93cf7429432b8e7061b6ccf4cc468720d8f69073d2b1bed2
   languageName: node
   linkType: hard
 
