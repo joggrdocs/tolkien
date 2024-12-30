@@ -640,7 +640,7 @@ __metadata:
     "@rslib/core": "npm:^0.1.3"
     "@types/node": "npm:^22.10.2"
     "@vitest/coverage-istanbul": "npm:^2.1.8"
-    consola: "npm:^3.2.3"
+    consola: "npm:^3.3.3"
     tsx: "npm:^4.19.2"
     type-fest: "npm:^4.30.0"
     typescript: "npm:^5.7.2"
@@ -1331,10 +1331,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"consola@npm:^3.2.3":
-  version: 3.2.3
-  resolution: "consola@npm:3.2.3"
-  checksum: 10/02972dcb048c337357a3628438e5976b8e45bcec22fdcfbe9cd17622992953c4d695d5152f141464a02deac769b1d23028e8ac87f56483838df7a6bbf8e0f5a2
+"consola@npm:^3.3.3":
+  version: 3.3.3
+  resolution: "consola@npm:3.3.3"
+  checksum: 10/b0e9a29195d5a87ec24f82cd2948109197745757d49f1bd57c8316d9e19f79941d60e25b997ee7b2ea0735c1a12b29917c3486bb80b4a8fb3be16ef70f019faf
   languageName: node
   linkType: hard
 
